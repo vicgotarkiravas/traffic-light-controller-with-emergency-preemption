@@ -1,0 +1,1 @@
+module traffic_light; endmodule
