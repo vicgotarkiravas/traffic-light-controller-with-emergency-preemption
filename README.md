@@ -1,2 +1,2 @@
 # Traffic Light Controller
-Initial commit from VerifyIQ Workbench.
+Updated with hardware files from VerifyIQ.
